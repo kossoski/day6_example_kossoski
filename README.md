@@ -1,0 +1,1 @@
+# day6_example_kossoski
